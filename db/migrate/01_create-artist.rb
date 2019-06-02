@@ -1,10 +1,4 @@
 
- 
-ActiveRecord::Base.connection.execute(sql)
-
-
-
-
 
 
 class CreateArtists < ActiveRecord::Migration
